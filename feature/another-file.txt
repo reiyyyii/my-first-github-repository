@@ -1,3 +1,5 @@
 It is another-file.txt in the feature-1 branch
 
 it is for making changes on purpose
+
+new line was added locally

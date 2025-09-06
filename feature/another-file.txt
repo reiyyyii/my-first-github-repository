@@ -4,3 +4,4 @@ it is for making changes on purpose
 
 new line was added locally
 This is changed in the feature-2 branch yeah.
+new modification in feature-2

@@ -1,5 +1,6 @@
-It is another-file.txt in the feature-1 branch
+This line was replaced in feature-2 branch.
 
 it is for making changes on purpose
 
 new line was added locally
+This is changed in the feature-2 branch yeah.
